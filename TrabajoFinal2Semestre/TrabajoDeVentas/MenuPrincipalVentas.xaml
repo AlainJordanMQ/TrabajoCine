@@ -1,0 +1,27 @@
+﻿<Window x:Class="TrabajoDeVentas.MenuPrincipalVentas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TrabajoDeVentas"
+        mc:Ignorable="d"
+        Title="MenuPrincipalVentas" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Label  Grid.Row="0" HorizontalAlignment="Center" FontWeight="Bold" FontSize="24"  Content="MENÚ" Background="#00000000" Foreground="#FFFDFBFB"/>
+       
+        <Button x:Name="btnVentasBoletos" Grid.Row="4" Height="30" Width="300" HorizontalAlignment="Center" Click="btnVentasBoletos_Click" >Generador de Ventas</Button>
+        
+        <Button x:Name="btnSalir" Grid.Row="7" Height="30" Width="300" HorizontalAlignment="Center" Click="btnSalir_Click">Salir</Button>
+    </Grid>
+</Window>

@@ -1,0 +1,30 @@
+﻿<Window x:Class="Trabajo.SeleccionarElTrabajo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trabajo"
+        mc:Ignorable="d"
+        Title="SeleccionarElTrabajo" Height="302.82" Width="525.94">
+    <Window.Background>
+        <ImageBrush ImageSource="Imagenes/cine-990x660.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Label  Grid.Row="0" HorizontalAlignment="Center" FontWeight="Bold" FontSize="24"  Content="MENÚ" Background="#00000000" Foreground="#FFFDFBFB"/>
+        <Button Grid.Row="1" x:Name="btnGeneradorDeDatos"  Height="30" Width="300" HorizontalAlignment="Center" Click="btnGeneradorDeDatos_Click">Empleado de Generador de datos</Button>
+        <Button Grid.Row="2" x:Name="btnVentas"  Height="30" Width="300" HorizontalAlignment="Center" Click="btnVentas_Click">Empleado de Ventas</Button>
+        <Button Grid.Row="3" x:Name="btnEstadisticos"  Height="30" Width="300" HorizontalAlignment="Center" Click="btnEstadisticos_Click">Empleado Estadisticos</Button>
+        <Button Grid.Row="4" x:Name="btnSalir"  Height="30" Width="300" HorizontalAlignment="Center" Click="btnSalir_Click">Salir</Button>
+        <MediaElement Source="C:\Trabajo6F\audio.wav"></MediaElement>
+    </Grid>
+</Window>

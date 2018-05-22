@@ -1,0 +1,563 @@
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.exe.config
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.exe
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.pdb
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.UI.csprojResolveAssemblyReference.cache
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MainWindow.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPruncipal.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasena.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\App.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo_MarkupCompile.cache
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo_MarkupCompile.lref
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MainWindow.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasena.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPruncipal.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.g.resources
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.Properties.Resources.resources
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.UI.csproj.GenerateResource.cache
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.UI.csproj.CoreCompileInputs.cache
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.exe
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.pdb
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\LiteDB.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\LiteDB.xml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.UI.csproj.CopyComplete
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\IngresarDuldes.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\IngresarDuldes.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\netstandard.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.AppContext.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Collections.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ComponentModel.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Console.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Data.Common.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Globalization.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.Compression.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.Pipes.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Linq.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Http.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Ping.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Primitives.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Requests.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Security.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Sockets.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ObjectModel.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Reflection.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Resources.Reader.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Resources.Writer.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Claims.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Principal.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.SecureString.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Text.Encoding.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Thread.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Timer.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ValueTuple.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XPath.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.BIZ.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.COMMON.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.DAL.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.BIZ.pdb
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.COMMON.pdb
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.DAL.pdb
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.exe.config
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\IngresarPeliculas.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\IngresarPeliculas.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentaBoletos.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaSalas.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentaBoletos.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaSalas.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Reporteador.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Reporteador.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Video.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo_Content.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Video.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\GeneradoraDeDatos.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\GeneradoraDeDatos.pdb
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.pdb
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.xml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Graficar.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Graficar.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Cargando.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Cargando.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReporducirVideo1.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReporducirVideo1.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPrincipalEstadisticos.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\SeleccionarElTrabajo.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPrincipalEstadisticos.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\SeleccionarElTrabajo.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPrincipalVentas.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPrincipalVentas.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\LeerContrasenaEstadistica.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\LeerContrasenaVentas.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasenaEstadisti.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasenaVentas.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\LeerContrasenaEstadistica.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\LeerContrasenaVentas.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasenaEstadisti.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasenaVentas.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\TablaDeDato.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\TablaDeDato.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReproducirVideo2.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReproducirVideo3.g.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReproducirVideo2.baml
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReproducirVideo3.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.exe.config
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.exe
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\netstandard.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.AppContext.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Collections.Concurrent.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Collections.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Collections.NonGeneric.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Collections.Specialized.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ComponentModel.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ComponentModel.Primitives.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Console.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Data.Common.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Contracts.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Debug.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Process.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Tools.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Tracing.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Drawing.Primitives.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Dynamic.Runtime.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Globalization.Calendars.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Globalization.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Globalization.Extensions.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.Compression.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.FileSystem.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.IsolatedStorage.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.Pipes.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Linq.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Linq.Expressions.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Linq.Parallel.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Linq.Queryable.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Http.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.NameResolution.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.NetworkInformation.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Ping.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Primitives.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Requests.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Security.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Sockets.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.WebSockets.Client.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.WebSockets.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ObjectModel.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Reflection.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Reflection.Extensions.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Reflection.Primitives.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Resources.Reader.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Resources.ResourceManager.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Resources.Writer.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Extensions.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Handles.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.InteropServices.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Numerics.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Claims.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Principal.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.SecureString.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Text.Encoding.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Text.RegularExpressions.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Overlapped.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Tasks.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Thread.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.ThreadPool.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Timer.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ValueTuple.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.ReaderWriter.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XDocument.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XmlDocument.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XmlSerializer.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XPath.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\GeneradoraDeDatos.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\LiteDB.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.Wpf.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.BIZ.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.COMMON.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.DAL.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\WpfAnimatedGif.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\GeneradoraDeDatos.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.BIZ.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.COMMON.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.DAL.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\LiteDB.xml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.xml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.Wpf.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.Wpf.xml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\WpfAnimatedGif.xml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.UI.csprojAssemblyReference.cache
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.exe.config
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Cargando.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Graficar.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\IngresarDuldes.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\IngresarPeliculas.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\LeerContrasenaEstadistica.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\LeerContrasenaVentas.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MainWindow.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPrincipalEstadisticos.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPrincipalVentas.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPruncipal.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReporducirVideo1.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Reporteador.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReproducirVideo2.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReproducirVideo3.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\SeleccionarElTrabajo.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\TablaDeDato.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentaBoletos.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasena.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasenaEstadisti.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasenaVentas.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaSalas.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Video.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\App.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo_Content.g.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo_MarkupCompile.cache
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo_MarkupCompile.lref
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Cargando.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Graficar.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\IngresarDuldes.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\IngresarPeliculas.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\LeerContrasenaEstadistica.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\LeerContrasenaVentas.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MainWindow.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPrincipalEstadisticos.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPrincipalVentas.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPruncipal.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReporducirVideo1.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Reporteador.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReproducirVideo2.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReproducirVideo3.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\SeleccionarElTrabajo.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\TablaDeDato.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentaBoletos.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasena.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasenaEstadisti.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasenaVentas.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaSalas.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Video.baml
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.g.resources
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.Properties.Resources.resources
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.UI.csproj.GenerateResource.cache
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.UI.csproj.CoreCompileInputs.cache
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.UI.csproj.CopyComplete
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.exe
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.exe.config
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.exe
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\netstandard.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.AppContext.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Collections.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ComponentModel.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Console.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Data.Common.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Globalization.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.Compression.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.Pipes.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Linq.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Http.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Ping.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Primitives.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Requests.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Security.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.Sockets.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ObjectModel.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Reflection.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Resources.Reader.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Resources.Writer.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Claims.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.Principal.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Security.SecureString.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Text.Encoding.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Thread.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Threading.Timer.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.ValueTuple.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XPath.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\GeneradoraDeDatos.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\LiteDB.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.BIZ.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.COMMON.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.DAL.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\GeneradoraDeDatos.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.BIZ.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.COMMON.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.DAL.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\LiteDB.xml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.xml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.UI.csprojResolveAssemblyReference.cache
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.exe.config
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Cargando.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Graficar.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\IngresarDuldes.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\IngresarPeliculas.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\LeerContrasenaEstadistica.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\LeerContrasenaVentas.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MainWindow.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPrincipalEstadisticos.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPrincipalVentas.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPruncipal.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReporducirVideo1.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Reporteador.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReproducirVideo2.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReproducirVideo3.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\SeleccionarElTrabajo.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\TablaDeDato.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentaBoletos.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasena.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasenaEstadisti.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasenaVentas.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaSalas.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Video.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\App.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo_Content.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo_MarkupCompile.cache
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo_MarkupCompile.lref
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Cargando.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Graficar.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\IngresarDuldes.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\IngresarPeliculas.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\LeerContrasenaEstadistica.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\LeerContrasenaVentas.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MainWindow.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPrincipalEstadisticos.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPrincipalVentas.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\MenuPruncipal.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReporducirVideo1.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Reporteador.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReproducirVideo2.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReproducirVideo3.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\SeleccionarElTrabajo.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\TablaDeDato.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentaBoletos.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasena.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasenaEstadisti.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaNContrasenaVentas.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\VentanaSalas.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Video.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.g.resources
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.Properties.Resources.resources
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.UI.csproj.GenerateResource.cache
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.UI.csproj.CoreCompileInputs.cache
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.UI.csproj.CopyComplete
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.exe
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReproducirVideo4.g.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\ReproducirVideo4.baml
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.exe.manifest
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\bin\Debug\Trabajo.application
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.exe.manifest
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo\obj\Debug\Trabajo.application

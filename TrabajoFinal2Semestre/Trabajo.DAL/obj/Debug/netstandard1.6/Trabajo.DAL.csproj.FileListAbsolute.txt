@@ -1,0 +1,33 @@
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.DAL.deps.json
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.COMMON.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.AssemblyInfo.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.DAL.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.DAL.pdb
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.COMMON.pdb
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.csproj.CopyComplete
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.DAL.deps.json
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.DAL.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.DAL.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.COMMON.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.COMMON.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.csprojAssemblyReference.cache
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.csproj.CoreCompileInputs.cache
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.AssemblyInfo.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.csproj.CopyComplete
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.DAL.deps.json
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.DAL.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.DAL.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.COMMON.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\bin\Debug\netstandard1.6\Trabajo.COMMON.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.AssemblyInfo.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.csproj.CopyComplete
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.DAL\obj\Debug\netstandard1.6\Trabajo.DAL.pdb

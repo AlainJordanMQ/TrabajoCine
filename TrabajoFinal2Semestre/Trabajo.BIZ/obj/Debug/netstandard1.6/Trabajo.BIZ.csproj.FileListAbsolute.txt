@@ -1,0 +1,33 @@
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.BIZ.deps.json
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.BIZ.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.BIZ.pdb
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.COMMON.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.COMMON.pdb
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.csprojResolveAssemblyReference.cache
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.csproj.CoreCompileInputs.cache
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.AssemblyInfo.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.csproj.CopyComplete
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.BIZ.deps.json
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.BIZ.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.BIZ.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.COMMON.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.COMMON.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.csprojAssemblyReference.cache
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.csproj.CoreCompileInputs.cache
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.AssemblyInfo.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.csproj.CopyComplete
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.BIZ.deps.json
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.BIZ.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.BIZ.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.COMMON.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\bin\Debug\netstandard1.6\Trabajo.COMMON.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.csprojResolveAssemblyReference.cache
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.csproj.CoreCompileInputs.cache
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.AssemblyInfo.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.csproj.CopyComplete
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\Trabajo.BIZ\obj\Debug\netstandard1.6\Trabajo.BIZ.pdb

@@ -1,0 +1,61 @@
+﻿<Window x:Class="TrabajoDeVentas.VentaDeBoleto2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TrabajoDeVentas"
+        mc:Ignorable="d"
+        Title="VentaDeBoleto2" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+        <WrapPanel Grid.Row="0">
+            <Label FontWeight="Bold" Background="#FFF7F4F4" >Nombre:</Label>
+            <TextBox x:Name="txbNombre" Width="150"></TextBox>
+        </WrapPanel>
+        <WrapPanel Grid.Row="1">
+            <Label FontWeight="Bold" Background="#FFF7F4F4" >Pelicula</Label>
+            <ComboBox Width="100" x:Name="cmbPelicula"></ComboBox>
+        </WrapPanel>
+        <WrapPanel Grid.Row="2">
+            <Label FontWeight="Bold" Background="#FFF7F4F4" >Sala</Label>
+            <ComboBox Width="100" x:Name="cmbSala" ></ComboBox>
+            <Button x:Name="btnAceptar" Click="btnAceptar_Click">Aceptar</Button>
+        </WrapPanel>
+        <WrapPanel Grid.Row="3">
+            <Label FontWeight="Bold" Background="#FFF7F4F4" >No.Asiento Disponibles</Label>
+
+            <ComboBox x:Name="cmbNoAsiento"></ComboBox>
+        </WrapPanel>
+        <WrapPanel Grid.Row="4">
+            <Label FontWeight="Bold" Background="#FFF7F4F4" >Dulces</Label>
+            <ComboBox Width="100" x:Name="cmbDulce"></ComboBox>
+        </WrapPanel>
+        <WrapPanel Grid.Row="5">
+            <Label FontWeight="Bold" Background="#FFF7F4F4" >Total a Pagar</Label>
+            <TextBox Width="100" x:Name="txbTotalPagar"></TextBox>
+            <Button x:Name="btnCalcularPagar" Click="btnCalcularPagar_Click">Calcular</Button>
+            <Label FontWeight="Bold" Background="#FFF7F4F4" >Dinero Recibido</Label>
+            <TextBox Width="100" x:Name="txbRecibido"></TextBox>
+            <Label FontWeight="Bold" Background="#FFF7F4F4" >Cambio</Label>
+            <TextBox Width="100" x:Name="txbCambio"></TextBox>
+            <Button x:Name="txbCalcular" Click="txbCalcular_Click">Calcular</Button>
+        </WrapPanel>
+        <WrapPanel Grid.Row="6">
+            <Button Width="100" Height="30" Click="Button_Click">Finalizar</Button>
+            <Button Width="100" Height="30" x:Name="btnCancelar" Click="btnCancelar_Click">Cancelar</Button>
+            <Button  Width="100" Height="30" x:Name="btnSalir" Click="btnSalir_Click">Salir</Button>
+        </WrapPanel>
+        <DataGrid Grid.Row="7" x:Name="dtgTabla"></DataGrid>
+
+    </Grid>
+</Window>

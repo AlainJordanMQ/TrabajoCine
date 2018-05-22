@@ -1,0 +1,34 @@
+﻿<Window x:Class="Trabajo.Video"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trabajo"
+        mc:Ignorable="d"
+        Title="Video" Height="253.954" Width="308.422">
+    <Window.Background>
+        <ImageBrush ImageSource="Imagenes/fabrica-cultura-oficina-cinema.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+
+
+        <Label Background="#00000000" Foreground="#FFFDFBFB" HorizontalAlignment="Center" Grid.Row="0" >Proximamente</Label>
+        <Label Grid.Row="1" Height="40"></Label>
+        <Button Width="150" Grid.Row="2" x:Name="btnTrailer1" Click="btnTrailer1_Click">Trailer 1</Button>
+        <Button Width="150" Grid.Row="3" x:Name="btnTrailer2" Click="btnTrailer2_Click">Trailer 2</Button>
+        <Button Width="150" Grid.Row="4" x:Name="btnTrailer3" Click="btnTrailer3_Click">Trailer 3</Button>
+        
+
+    </Grid>
+</Window>

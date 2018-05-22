@@ -1,0 +1,24 @@
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.deps.json
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.pdb
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.AssemblyInfo.cs
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.dll
+C:\Users\Elidio Martinez\Videos\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.deps.json
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.pdb
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.csprojAssemblyReference.cache
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.csproj.CoreCompileInputs.cache
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.AssemblyInfo.cs
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.dll
+E:\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.deps.json
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.pdb
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.AssemblyInfo.cs
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.dll
+C:\Users\Elidio Martinez\Music\TrabajoFinal2Semestre\TrabajoFinal2Semestre\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.pdb

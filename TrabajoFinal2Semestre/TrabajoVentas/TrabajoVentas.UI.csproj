@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2E30B804-57BD-4B2E-B282-8F41BFE18506}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TrabajoVentas</RootNamespace>
+    <AssemblyName>TrabajoVentas</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MenuPruncipal.xaml.cs">
+      <DependentUpon>MenuPruncipal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VentaBoletos.xaml.cs">
+      <DependentUpon>VentaBoletos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaNContrasena.xaml.cs">
+      <DependentUpon>VentanaNContrasena.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Generar.cs" />
+    <Compile Include="Leer.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ManejadorArchivos.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\1440_900_20100327011032921439.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\296602.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\cine-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\cine-990x660.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\cine-gif-6.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\color-slices-wallpaper-57040.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\fabrica-cultura-oficina-cinema.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\fondos-de-pantalla-colores-3d.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\nuevo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\nuevo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MenuPruncipal.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="VentaBoletos.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="VentanaNContrasena.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GeneradoraDeDatos\GeneradoraDeDatos.csproj">
+      <Project>{d317e0d2-1fbe-4af3-99bb-b30d8520e63d}</Project>
+      <Name>GeneradoraDeDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Trabajo.BIZ\Trabajo.BIZ.csproj">
+      <Project>{860e04e2-728e-486f-a692-8d12181c97fe}</Project>
+      <Name>Trabajo.BIZ</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Trabajo.COMMON\Trabajo.COMMON.csproj">
+      <Project>{67606b0e-a199-4edf-9d48-fd652b1776ec}</Project>
+      <Name>Trabajo.COMMON</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Trabajo.DAL\Trabajo.DAL.csproj">
+      <Project>{35763b30-4f5b-42b0-a76b-3d59c162371c}</Project>
+      <Name>Trabajo.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Trabajo\TrabajoAdministrador.UI.csproj">
+      <Project>{2afa7259-0bd7-4498-b93f-d88cffe7a698}</Project>
+      <Name>TrabajoAdministrador.UI</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

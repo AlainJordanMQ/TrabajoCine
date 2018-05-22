@@ -1,0 +1,29 @@
+﻿<Window x:Class="Trabajo.MenuPrincipalVentas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trabajo"
+        mc:Ignorable="d"
+        Title="MenuPrincipalVentas" Height="411.09" Width="454.887">
+    <Window.Background>
+        <ImageBrush ImageSource="Imagenes/fabrica-cultura-oficina-cinema.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Label  Grid.Row="1" HorizontalAlignment="Center" FontWeight="Bold" FontSize="24"  Content="MENÚ" Background="#00000000" Foreground="#FFFDFBFB"/>
+        <Label  Grid.Row="0" Height="50"/>
+        <Button x:Name="btnVentasBoletos" Grid.Row="4" Height="30" Width="300" HorizontalAlignment="Center" Click="btnVentasBoletos_Click" >Generador de Ventas</Button>
+        <Button x:Name="btnVideos" Grid.Row="5" Height="30" Width="300" HorizontalAlignment="Center" Click="btnVideos_Click">Proximamente</Button>
+        <Button x:Name="btnSalir" Grid.Row="6" Height="30" Width="300" HorizontalAlignment="Center" Click="btnSalir_Click">Salir</Button>
+    </Grid>
+</Window>
